@@ -33,7 +33,7 @@ This application works correctly when run locally.
 Public deployment on static hosting platforms (such as GitHub Pages) may be restricted due to third-party API security and CORS policies.
 
 ## Future Enhancements
-1.Integrate a backend proxy to securely manage API requests
-2.Add pagination and infinite scrolling
-3.Improve error handling and loading indicators
-4.Deploy using a full-stack architecture
+1. Integrate a backend proxy to securely manage API requests
+2. Add pagination and infinite scrolling
+3. Improve error handling and loading indicators
+4. Deploy using a full-stack architecture
